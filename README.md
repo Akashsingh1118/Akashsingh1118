@@ -10,6 +10,7 @@
 - **HTML**
 - **CSS**
 - **Java**
+- **Javascript**
 
 # Coding profiles 
 
