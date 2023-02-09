@@ -6,11 +6,11 @@
 
 # Skills
 
-- **C/C++**
-- **HTML**
-- **CSS**
-- **Java**
-- **Javascript**
+- _**C/C++**_
+- _**HTML**_
+- _**CSS**_
+- _**Java**_
+- _**Javascript**_
 
 # Coding profiles
 
