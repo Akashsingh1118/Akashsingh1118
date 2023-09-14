@@ -4,13 +4,15 @@
 - Myself **Akash Singh**, an engineer with excellent problem solving skills.
 - I am currently pursuing B.Tech in Electrical and Electronics Engineering from Vellore Institute of Technology, Vellore.
 
-# Skills
+# Skills & Technologies
 
 - _**C/C++**_
 - _**HTML**_
 - _**CSS**_
 - _**Java**_
 - _**Javascript**_
+- _**Reactjs**_
+- _**CS fundamentals - OS, OOP, DBMS**_
 
 # Coding profiles
 
