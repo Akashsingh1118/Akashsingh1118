@@ -12,13 +12,14 @@
 - _**Java**_
 - _**Javascript**_
 - _**Reactjs**_
-- _**CS fundamentals - OS, OOP, DBMS**_
+- _**CS fundamentals - OS, OOPs, DBMS**_
 
 # Coding profiles
 
 - [Leetcode](https://leetcode.com/Akash_singh11/)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akkisingh11)
 - [Codechef](https://www.codechef.com/users/akash_singh011)
+- [Codeforces](https://codeforces.com/profile/Akash_singh11)
 
 # Let's keep in touch:point_down: 
 - [Linkedin](https://www.linkedin.com/in/akash-singh-54529a1b0/)
