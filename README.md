@@ -21,6 +21,6 @@
 - [Codechef](https://www.codechef.com/users/akash_singh011)
 - [Codeforces](https://codeforces.com/profile/Akash_singh11)
 
-# Let's keep in touch:point_down: 
+# Let's keep in touch👇 
 - [Linkedin](https://www.linkedin.com/in/akash-singh-54529a1b0/)
 - [Twitter](https://twitter.com/AkkiSingh_11)
